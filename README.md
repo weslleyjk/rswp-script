@@ -1,5 +1,6 @@
 ### > Programação - Algoritmos (UFCD5089) - CINEL
-#### - Weslley Ferreira Felix
+
+#### >> Weslley Ferreira Felix
 
 ## About
 

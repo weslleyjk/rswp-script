@@ -11,7 +11,8 @@ Projeto desenvolvido com a intenção de aplicar o conteúdo de python que foi m
 - > Cryptography for python
 - > Fernet
 
-```$ pip install cryptography
+```
+$ pip install cryptography
 ```
 
 ### Python

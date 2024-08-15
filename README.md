@@ -1,17 +1,20 @@
 # Projeto de python da disciplina Programação - Algoritmos (UFCD5089) - CINEL
+### Weslley Ferreira Felix
+
+## About
+
+Projeto desenvolvido com a intenção de aplicar o conteúdo de python que foi ministrado durante a disciplina.
 
 # Requeriments
 
-> Python 3.0+
-> Cryptography for python
-> Fernet
+- > Python 3.0+
+- > Cryptography for python
+- > Fernet
 
-```diff
+```$ pip install cryptography
 ```
 
 ### Python
 
-[Python](https://www.python.org/) - Python
+- [Python](https://www.python.org/)
 
-
-# Weslley Ferreira Felix

@@ -1,5 +1,5 @@
-### Projeto de python da disciplina > Programação - Algoritmos (UFCD5089) - CINEL
-#### Weslley Ferreira Felix
+### > Programação - Algoritmos (UFCD5089) - CINEL
+#### - Weslley Ferreira Felix
 
 ## About
 
